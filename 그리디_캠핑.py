@@ -7,7 +7,7 @@ while True:
         break
 
 result = []
-print(case)
+
 for i in range(len(case)-1):
     start_point = 0
     count = 0
