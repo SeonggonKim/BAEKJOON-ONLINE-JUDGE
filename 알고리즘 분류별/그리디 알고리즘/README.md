@@ -1,2 +1,2 @@
-# BOJ Greedy Algorithm
-백준 온라인 저지 (그리디 알고리즘)
+# Greedy Algorithm
+그리디 알고리즘
