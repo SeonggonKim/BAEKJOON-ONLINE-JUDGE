@@ -1,2 +1,2 @@
-# BOJ
+# BAEKJOON ONLINE JUDGE
 백준 온라인 저지
